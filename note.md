@@ -1,4 +1,6 @@
 # LeetCode 笔记
+​    [git仓库地址](https://github.com/ThymeD/LeetCode)
+
 ## 7.整数反转.js
 
 ### 数字取整`num | 0`
